@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Last Updated Column
-Plugin URI: wordpress.com
+Plugin URI: https://wordpress.org/plugins/last-updated-posts
 Description: Adds a new column in Post-page "Last updated" and it is sortable
 Version: 1.0
 Author: Cornelii Sandberg/ ChatGPT
