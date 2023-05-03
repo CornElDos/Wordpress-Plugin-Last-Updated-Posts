@@ -4,3 +4,15 @@ Made with OpenAI and ChatGPT
 
 Todo's
 1. Make it language independent - for now it is english only
+
+Used prompts
+
+First prompt
+#Hello. You are an expert in php coding, Wordpress and plugins for Wordpress. Can you help me?
+
+Second prompt
+#I want you to create a complete plugin. Which I can upload and install. I want it to do the following: Add "Last updated" as a column to the Posts page and display the date when the last update was made. Can you help me?
+
+Third prompt
+#The code works great thanks! Can you adjust the code you gave me so that it also makes the "Last updated" column sortable?
+
