@@ -11,7 +11,7 @@ License: GPL2
 
 // Create column for last updated and make it sortable
 function last_updated_column_head($defaults) {
-    $defaults['last_updated'] = __('Last Updated', 'last_updated');
+    $defaults['last_updated'] = __( 'Last Updated', 'wpse-last-updated-column' );
     return $defaults;
 }
 
@@ -33,3 +33,9 @@ function last_updated_column_sortable($columns) {
 add_filter('manage_posts_columns', 'last_updated_column_head');
 add_action('manage_posts_custom_column', 'last_updated_column_content', 10, 2);
 add_filter('manage_edit-post_sortable_columns', 'last_updated_column_sortable');
+
+// Lägg till översättning för "Last Updated"
+function last_updated_column_textdomain() {
+    load_plugin_textdomain( 'wpse-last-updated-column', false, dirname( plugin_basename( __FILE__ ) ) . '/languages' );
+}
+add_action( 'plugins_loaded', 'last_updated_column_textdomain' );

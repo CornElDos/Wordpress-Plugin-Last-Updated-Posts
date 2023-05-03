@@ -1,0 +1,21 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Last Updated Column\n"
+"POT-Creation-Date: 2023-05-03 12:00+0000\n"
+"PO-Revision-Date: 2023-05-03 12:00+0000\n"
+"Last-Translator: CornElDos <EMAIL@ADDRESS>\n"
+"Language-Team: sv_SV <EMAIL@ADDRESS>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: my-plugin.php:10
+msgid "Last Updated"
+msgstr "Zuletzt aktualisiert"
+
