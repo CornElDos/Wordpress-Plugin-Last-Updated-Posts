@@ -20,6 +20,6 @@ Adjusted code for language support
 Fourth prompt
 #Can you adjust the code above so that instead of saying "Last Updated" it selects last_updated from the language Wordpress is installed in?
 
-Fith prompt
+Fifth prompt
 Can you write wpse-last-updated-column-en_US.mo for me?
 
