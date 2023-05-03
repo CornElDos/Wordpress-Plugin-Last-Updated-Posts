@@ -9,19 +9,19 @@ Todo's
 
 Used prompts
 
-First prompt\n
-Hello. You are an expert in php coding, Wordpress and plugins for Wordpress. Can you help me?
+First prompt
+- Hello. You are an expert in php coding, Wordpress and plugins for Wordpress. Can you help me?
 
 Second prompt
-# I want you to create a complete plugin. Which I can upload and install. I want it to do the following: Add "Last updated" as a column to the Posts page and display the date when the last update was made. Can you help me?
+- I want you to create a complete plugin. Which I can upload and install. I want it to do the following: Add "Last updated" as a column to the Posts page and display the date when the last update was made. Can you help me?
 
 Third prompt
-# The code works great thanks! Can you adjust the code you gave me so that it also makes the "Last updated" column sortable?
+- The code works great thanks! Can you adjust the code you gave me so that it also makes the "Last updated" column sortable?
 
 Adjusted code for language support
 Fourth prompt
-# Can you adjust the code above so that instead of saying "Last Updated" it selects last_updated from the language Wordpress is installed in?
+- Can you adjust the code above so that instead of saying "Last Updated" it selects last_updated from the language Wordpress is installed in?
 
 Fifth prompt
-# Can you write wpse-last-updated-column-en_US.mo for me?
+- Can you write wpse-last-updated-column-en_US.mo for me?
 
