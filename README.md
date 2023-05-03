@@ -2,7 +2,7 @@
 This plugin which is for Wordpress helps me sort all my articles (+800) in when they where last updated. Really awesome when it comes to maintain old articles from a SEO perspective.
 Made with OpenAI and ChatGPT
 
-# Wordpress, Last updated posts, Admin interface
+# Wordpress admin, Last updated posts
 
 Todo's
 1. Make it language independent - for now it is english only
