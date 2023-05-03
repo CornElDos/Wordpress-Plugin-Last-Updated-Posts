@@ -16,3 +16,10 @@ Second prompt
 Third prompt
 #The code works great thanks! Can you adjust the code you gave me so that it also makes the "Last updated" column sortable?
 
+Adjusted code for language support
+Fourth prompt
+#Can you adjust the code above so that instead of saying "Last Updated" it selects last_updated from the language Wordpress is installed in?
+
+Fith prompt
+Can you write wpse-last-updated-column-en_US.mo for me?
+
