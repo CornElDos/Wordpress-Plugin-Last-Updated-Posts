@@ -4,6 +4,12 @@ Made with OpenAI and ChatGPT
 
 # Wordpress admin, Last updated posts
 
+To use it and in no need to code
+- Just download the zip
+- Go to Plugins
+- Select upload and choose the zip
+- Activate plugin and et viola you can now sort your posts when they where updated last
+
 Todo's
 1. Make it language independent - for now it is english only - FIXED (Sv,En,Es,Pt,De)
 
