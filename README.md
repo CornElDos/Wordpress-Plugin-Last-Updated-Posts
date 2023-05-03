@@ -5,7 +5,7 @@ Made with OpenAI and ChatGPT
 # Wordpress admin, Last updated posts
 
 Todo's
-1. Make it language independent - for now it is english only
+1. Make it language independent - for now it is english only - FIXED (Sv,En,Es,Pt,De)
 
 Used prompts
 
